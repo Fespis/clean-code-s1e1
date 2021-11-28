@@ -91,10 +91,6 @@ button {
 }
 
 /* New Task */
-.title-new-label[for="new-task"] {
-  display: block;
-  margin: 0 0 20px;
-}
 .new-task {
   width: 318px;
 }
