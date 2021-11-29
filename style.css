@@ -31,7 +31,7 @@ button {
   text-align: right;
 }
 
-.header__image{
+.header__img{
   width: 100%;
 }
 
@@ -57,7 +57,7 @@ button {
   display: flex;
 }
 
-.article__buttons {
+.article__btn {
   border: 0px;
   color: #888;
   font-size: 15px;
@@ -66,11 +66,11 @@ button {
   cursor: pointer;
 }
 
-.article__buttons:hover {
+.article__btn:hover {
     color: #3a3a3a;
 }
 
-.section__buttons {
+.section__btn {
   border: 0px;
   color: #888;
   font-size: 15px;
@@ -79,7 +79,7 @@ button {
   cursor: pointer;
 }
 
-.section__buttons:hover {
+.section__btn:hover {
     color: #3a3a3a;
 }
 
@@ -170,13 +170,13 @@ button {
   margin: 0 10px;
 }
 
-.section__buttons-image{
+.section__btn-image{
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.section__buttons-image:hover {
+.section__btn-image:hover {
   transform: rotateZ(0);
 }
 
